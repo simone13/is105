@@ -1,0 +1,20 @@
+mkdir   --Lager ny directory
+
+cd      --Åpner ny mappe
+
+ls      --Lister filer
+
+ls ­l    --Lister filer og inf. om når filer ble endret, dato, kl, størrelse etc.
+
+ls ­la   --Viser samme som l pluss skjulte filer
+
+pwd     --Viser hvilken mappe en er i
+
+forklar “pipes and redirection”   -- chain commands together
+
+grep    --søker etter filer som matcher et gitt mønster
+
+cat     --Sette sammen filer og print på standard output
+
+less      --fremmvisning (men kun) av filer fra terminal
+
