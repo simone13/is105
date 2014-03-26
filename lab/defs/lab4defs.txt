@@ -1,0 +1,26 @@
+API
+API står for Application Programming Interface som på norsk kan oversettes til applikasjonsprogrammeringsgrensesnitt. API er et programmeringsgrensesnitt som gjør det mulig at flere programmer kan kommunisere med hverandre. 
+
+IDE
+IDE står for Integrated Development Enviorment som på norsk kan oversettes til et integrert utviklingsmiljø. IDE er en type programvare som kan brukes til å skrive og lage annen programvare. 
+
+ps
+En kommando som lister alle prosesser.
+
+top
+En kommando som lister alle prosesser i en tabell.
+
+df
+En kommando som gir informasjon om diskbruk.
+
+kill
+En kommando som avslutter/dreper en prosess.
+
+netstat
+En kommando som viser nettverkstilkoblinger og annen relatert informasjon.
+
+ifconfig
+En kommando som brukes for å konfigruere et nettverk.
+
+who
+En kommando som viser hver som er pålogget i systemet.

@@ -85,9 +85,11 @@ def min_sys_info():
 
 
 def initialer(navn):
-	var = re.findall("[A-Z]", navn)
-	return var
-
+	Fornavn = navn[0]
+	M = navn.find(" ")
+	Etternavn = navn[m + 1]
+	Total = Fornavn + "." + Etternavn + "."
+	return Total
 #
 #  Oppgave 4
 #    Ditt første møte med regulære uttrykk i Python (Perl stil)
